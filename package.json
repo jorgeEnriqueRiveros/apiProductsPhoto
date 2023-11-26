@@ -1,0 +1,11 @@
+{
+  "name": "basededatosproducts",
+  "version": "1.0.0",
+  "description": "database where it shows the photo of the product and its characteristics",
+  "main": "apiProductsPhoto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KikeRiveros",
+  "license": "ISC"
+}
